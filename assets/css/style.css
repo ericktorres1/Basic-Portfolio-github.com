@@ -1,0 +1,12 @@
+h1 {
+    width: 230px;
+    background: blue;
+    margin-left: 75px;
+    padding: 10px;
+}
+
+#main-div {
+    margin-top: 50px;
+    background: darkcyan;
+    width: 960px;
+}
